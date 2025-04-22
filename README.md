@@ -74,7 +74,8 @@ Testing the webserver.
     httpd.serve_forever()
     
 # OUTPUT:
-![image](https://github.com/user-attachments/assets/789850a3-54d4-4f00-9664-add3a8dafc88)
+![Screenshot 2025-04-22 204507](https://github.com/user-attachments/assets/673113c4-9c5e-4e00-9be2-9f21afbd545f)
+
 ![image](https://github.com/user-attachments/assets/9ded785a-db03-4fe9-bbc5-d2eba20c364b)
 
 # RESULT:
